@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naveensai628
 - 👀 I’m interested in coding and debugging.
-- 🌱 I’m currently learning spring concepts.
+- 🌱 I’m currently learning Oracle.
 - 💞️ I’m looking to collaborate any thing related to PL/SQL,Java and SQL.
 - 📫 How to reach me through mail- galinaveensai7@gmail.com
 
